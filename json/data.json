@@ -1,0 +1,28 @@
+[
+    {
+      "title": "Inception",
+      "release_year": "2010",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg"
+    },
+    {
+      "title": "The dark knight",
+      "release_year": "1986",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91KkWf50SoL._SL1500_.jpg"
+    },
+    {
+        "title": "Call me by your name",
+        "release_year": "2017",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDk3NTEwNjc0MV5BMl5BanBnXkFtZTgwNzYxNTMwMzI@._V1_.jpg" 
+      },
+      {
+        "title": "La la land",
+        "release_year": "2016",
+        "image": "https://lionsgate.brightspotcdn.com/bf/d2/306cfd60415fa6f98f9f1280a3dd/lalaland-movies-he-poster-01.jpg"
+      },
+
+     { "title": "a star is born",
+      "release_year": "2018",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/A_Star_is_Born.png/220px-A_Star_is_Born.png" 
+    }
+
+  ]
